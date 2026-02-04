@@ -21,7 +21,7 @@ img {
 
 /* HERO */
 .hero_section {
-    background-image: url(./images/developer.jpeg);
+    background-image: url(/IMAGES/developer.jpeg);
     min-height: 100vh;
     background-position: center;
     background-size: cover;
